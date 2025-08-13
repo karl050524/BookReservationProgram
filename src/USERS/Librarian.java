@@ -24,7 +24,7 @@ public class Librarian implements Person{
     }
 
     @Override
-    public String getIdentification() {
+    public String getID() {
         return librarian_ID;
     }
 

@@ -35,7 +35,7 @@ public class Member implements Person{
     }
 
     @Override
-    public String getIdentification() {
+    public String getID() {
         return member_ID;
     }
 }

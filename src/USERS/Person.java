@@ -3,5 +3,5 @@ package USERS;
 public interface Person {
     String getName();
     String getEmailAddress();
-    String getIdentification();
+    String getID();
 }
