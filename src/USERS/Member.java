@@ -1,7 +1,5 @@
 package USERS;
 
-import OBJECTS.Book;
-
 public class Member implements Person{
     private String member_Name;
     private String member_Email;
